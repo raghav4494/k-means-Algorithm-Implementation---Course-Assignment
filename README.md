@@ -1,5 +1,7 @@
 # k-means-Algorithm-Implementation---Course-Assignment
-This code is developed as an assignment for the course "Data Mining"
+This code is developed as an assignment for the course "Data Mining".
+
+The code is written in Python.
 
 # k-means_Implementation
 1. Load the required file containing data points(to test) in the same directory, k_means_implementation.py is present.
