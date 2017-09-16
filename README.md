@@ -1,7 +1,7 @@
 # k-means-Algorithm-Implementation---Course-Assignment
 This code is developed as an assignment for the course "Data Mining"
 
-# K_Means_Implementation
+# k-means_Implementation
 1. Load the required file containing data points(to test) in the same directory, k_means_implementation.py is present.
 2. Edit the line #13 in k_means_implementation.py for the required number of dimensions corresponding to data point. For instance, iris.txt contains 4D data point and is present in first 4 columns. Hence, keep the usecols values to be 0,1,2,3.
 3. Change the access permissions of the file using command - k_means_implementation.py
